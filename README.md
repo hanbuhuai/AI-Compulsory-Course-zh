@@ -25,6 +25,6 @@
 
 1.StableDefussion
 - 使用colab运行StableDefussion WebUI
-- [使用GPU服务器运行StableDefussion WebUI](./stable-defussion-ubuntu/)
+- [使用GPU服务器运行StableDefussion WebUI](./stable-defussion-ubuntu/1_Ubuntu%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BAStableDefussion-WebUI.md)
 - [安装StableDefussion汉化包](./stable-defussion-ubuntu/2_%E5%AE%89%E8%A3%85%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81.md)
 
