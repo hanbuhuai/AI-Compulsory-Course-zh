@@ -30,7 +30,8 @@
    - [2.1 安装StableDifussion汉化包](./stable-defussion-ubuntu/2.1_%E5%AE%89%E8%A3%85%E6%B1%89%E5%8C%96%E8%A1%A5%E4%B8%81.md)
    - [2.2 安装civitai模型](./stable-defussion-ubuntu/2.2_%E5%AE%89%E8%A3%85civitai%E6%A8%A1%E5%9E%8B.md)
    - [2.3 进阶教程，进程守护，密码，域名](./stable-defussion-ubuntu/2.4_%E8%BF%9B%E7%A8%8B%E5%AE%88%E6%8A%A4%E3%80%81%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D%E3%80%81%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81.md)
-
+  
+3. [Stable Diffussion 公众原理:CHECKPOINT,LORA,EMBEDDING](./stable-diffussion/3_stable-diffussion-%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/main.md)
 
 
 
